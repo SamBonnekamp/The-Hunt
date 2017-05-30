@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+body {
+	font-family: Source Sans Pro;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	color: white;
+	text-align: center;
+}
